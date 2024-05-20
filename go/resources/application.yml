@@ -1,0 +1,10 @@
+application:
+  name: ms-template-mongo-go
+
+  config:
+    import: http://localhost:8888
+    profile: default
+
+
+
+
